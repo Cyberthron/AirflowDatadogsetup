@@ -12,7 +12,7 @@ statsd_host = localhost<br>
 statsd_port = 8125<br>
 statsd_prefix = airflow<br>
 **3.Update the Datadog Agent main configuration file datadog.yaml by adding someproparties into datadog.yaml.**<br>
-    Check Datadog.yaml file<br>
+    Check Datadog.yaml file and the extra part<br>
 **4.Restart DataDog with Airflow**<br>
     sudo service datadog-agent restart
     
