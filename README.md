@@ -1,1 +1,17 @@
 # AirflowDatadogsetup
+**1.install the Airflow StatsD plugin **
+    pip install 'apache-airflow[statsd]'
+**2.Update the Airflow configuration file airflow.cfg by adding some properties**
+[scheduler]
+statsd_on = True
+statsd_host = localhost
+statsd_port = 8125
+statsd_prefix = airflow
+**3.Update the Datadog Agent main configuration file datadog.yaml by adding someproparties into datadog.yaml.**
+**4.Restart DataDog with Airflow**
+    sudo service datadog-agent restart
+    
+#Resources
+Airflow Integrate Datadog :- https://docs.datadoghq.com/integrations/airflow/
+
+
