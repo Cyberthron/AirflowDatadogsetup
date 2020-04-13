@@ -1,5 +1,5 @@
 # AirflowDatadogsetup
-**1.install the Airflow StatsD plugin **
+**1.Install the Airflow StatsD plugin **
 <br>
     pip install 'apache-airflow[statsd]'
     <br>
