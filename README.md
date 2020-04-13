@@ -16,7 +16,19 @@ statsd_prefix = airflow<br>
 **4.Restart DataDog with Airflow**<br>
     sudo service datadog-agent restart
     
-#Resources
-Airflow Integrate Datadog :- https://docs.datadoghq.com/integrations/airflow/
+***Configuration on Ubantu***<br>
+    The configuration files and folders for the Agent are located in:<br>
+    
+        /etc/datadog-agent/datadog.yaml <br>
+        Configuration files for Integrations:<br>
+
+        /etc/datadog-agent/conf.d/<br> 
+        ** if conf.yaml.example file is given then rename into conf.yaml <br>
+        
+#Resources<br>
+Airflow Integrate Datadog :- https://docs.datadoghq.com/integrations/airflow/<br> ***
+        
+        
+
 
 
