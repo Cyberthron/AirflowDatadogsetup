@@ -33,7 +33,9 @@
         
 # Resources
 
-    Airflow Integrate Datadog :- https://docs.datadoghq.com/integrations/airflow/<br> ***
+ **Airflow Integrate Datadog**
+   
+   https://docs.datadoghq.com/integrations/airflow/
         
         
 
