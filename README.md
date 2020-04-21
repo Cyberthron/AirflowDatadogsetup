@@ -15,7 +15,8 @@
     
 **3.Update the Datadog Agent main configuration file datadog.yaml by adding someproparties into datadog.yaml.**
 
-    Check Datadog.yaml file and the extra part<br>
+    Check Datadog.yaml file and the extra part
+    
     
 **4.Restart DataDog with Airflow**
 
