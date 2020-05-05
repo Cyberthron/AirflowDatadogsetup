@@ -134,7 +134,7 @@
 # Output
 
 <p align=center>
-  <img  src='./Images/eksarchitecture.png'  alt='Kubernetes Architecture'/>
+  <img  src='./Screenshot_Images/m.jpeg'  alt='Kubernetes Architecture'/>
 
 </p>
 
