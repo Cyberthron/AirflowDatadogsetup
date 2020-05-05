@@ -131,7 +131,13 @@
    
    https://docs.datadoghq.com/integrations/airflow/
         
-        
+# Output
+
+<p align=center>
+  <img  src='./Images/eksarchitecture.png'  alt='Kubernetes Architecture'/>
+
+</p>
+
 
 `
 
